@@ -1,0 +1,21 @@
+{
+  "tests": "./*_test.js",
+  "timeout": 10000,
+  "output": "./output",
+  "helpers": {
+    "WebDriverIO": {
+      "url": "http://localhost",
+      "__urlcomment":"Enter the url of your site above",
+      "browser": "chrome"
+    },
+    "Name": {
+      "require": "./name_helper.js"
+    }
+  },
+  "include": {
+    "I": "./steps_file.js"
+  },
+  "bootstrap": false,
+  "mocha": {},
+  "name": "portal-automatedtests-base-project"
+}

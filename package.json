@@ -1,0 +1,16 @@
+{
+  "name": "base-project-portal-tests",
+  "version": "1.0.0",
+  "description": "Automated Test for Portal Base Project",
+  "main": "steps_file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gbenro Oni",
+  "license": "ISC",
+  "dependencies": {
+    "Faker": "^0.7.2",
+    "rand-token": "^0.2.1",
+    "chance": "^1.0.9"
+  }
+}
