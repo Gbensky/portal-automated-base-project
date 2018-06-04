@@ -3,13 +3,13 @@
   "timeout": 10000,
   "output": "./output",
   "helpers": {
-    "WebDriverIO": {
+    "Puppeteer": {
       "url": "http://localhost",
       "__urlcomment":"Enter the url of your site above",
-      "browser": "chrome"
+      "show": false
     },
-    "Name": {
-      "require": "./name_helper.js"
+    "Base": {
+      "require": "./base_helper.js"
     }
   },
   "include": {
