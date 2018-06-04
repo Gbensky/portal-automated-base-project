@@ -10,7 +10,7 @@ The minimum requirement by this project template that your Web server supports E
 
 If you do not have NPM, you may install it by following the instructions at https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04#removing-nodejs.
 
-Run `npm install -g codeceptjs`
+Run `npm install -g codeceptjs-puppeteer`
 
 Run `npm install -g create-project`
 
