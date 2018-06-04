@@ -6,6 +6,15 @@ The minimum requirement by this project template that your Web server supports E
 
 * [CodeceptJS 0.6.*](https://codecept.io)
 
+## Install via NPM
+
+If you do not have NPM, you may install it by following the instructions at https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04#removing-nodejs.
+
+Run `npm install -g create-project`
+
+You can then install this project template using the following command:
+create-project project_name Gbensky/portal-automated-base-project
+
 ## Install dependencies
 
 `npm install`
