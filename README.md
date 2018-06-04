@@ -13,7 +13,7 @@ If you do not have NPM, you may install it by following the instructions at http
 Run `npm install -g create-project`
 
 You can then install this project template using the following command:
-create-project project_name Gbensky/portal-automated-base-project
+`create-project project_name Gbensky/portal-automated-base-project`
 
 ## Install dependencies
 
