@@ -4,7 +4,7 @@
 
 The minimum requirement by this project template that your Web server supports EcmaScript 6
 
-* [CodeceptJS 1.0.*](https://codecept.io)
+* [CodeceptJS 1.1.*](https://codecept.io)
 
 ## Install via NPM
 
