@@ -78,4 +78,5 @@ Scenario('Test Leave email address field and password field blank and Click Logi
     I.click('{{signInButton}}');
     I.wait(5);
     I.see('{{confirmText}}');
+    I.see('{{confirmText}}');
 });
